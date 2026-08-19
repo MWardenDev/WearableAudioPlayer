@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WearableAudio.Cli/WearableAudio.Cli.csproj" />
+    <Project Path="src/WearableAudio.Core/WearableAudio.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WearableAudio.Core.Tests/WearableAudio.Core.Tests.csproj" />
+  </Folder>
+</Solution>
